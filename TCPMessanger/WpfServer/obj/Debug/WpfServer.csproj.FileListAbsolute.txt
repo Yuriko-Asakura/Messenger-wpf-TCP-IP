@@ -1,0 +1,56 @@
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\bin\Debug\WpfServer.exe.config
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\bin\Debug\WpfServer.exe
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\bin\Debug\WpfServer.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\bin\Debug\ChatLibrary.dll
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\bin\Debug\ChatLibrary.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\Server.g.cs
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\App.g.cs
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer_MarkupCompile.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer_MarkupCompile.lref
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\Server.baml
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer.g.resources
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.CopyComplete
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer.exe
+C:\Users\Dmitry\Desktop\TCPMessanger\WpfServer\obj\Debug\WpfServer.pdb
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\WpfServer.exe.config
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\WpfServer.exe
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\WpfServer.pdb
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\ChatLibrary.dll
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\ChatLibrary.pdb
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\Server.g.cs
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\App.g.cs
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer_MarkupCompile.cache
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer_MarkupCompile.lref
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\Server.baml
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.g.resources
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.Properties.Resources.resources
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.GenerateResource.cache
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.CopyComplete
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.exe
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.pdb
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\WpfServer.exe.config
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\WpfServer.exe
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\WpfServer.pdb
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\ChatLibrary.dll
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\bin\Debug\ChatLibrary.pdb
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\Server.g.cs
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\Server.baml
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.g.resources
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.exe
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\WpfServer\obj\Debug\WpfServer.pdb

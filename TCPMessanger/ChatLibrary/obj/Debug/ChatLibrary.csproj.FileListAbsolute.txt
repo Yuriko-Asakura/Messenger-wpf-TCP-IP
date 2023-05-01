@@ -1,0 +1,18 @@
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.csprojAssemblyReference.cache
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\Анастасия\Downloads\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.pdb
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\Анастасия\Desktop\Messenger-master (4)\Messenger-master\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.pdb
